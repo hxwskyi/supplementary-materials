@@ -8,4 +8,4 @@
 ![Figure 2](fig1-new.png)
 
 ## Figure 3. Qualitative comparison across models (Case 2)
-![Figure 3](fig2.png)
+![Figure 3](fig2-new.png)
