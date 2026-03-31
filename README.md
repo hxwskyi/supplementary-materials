@@ -1,4 +1,4 @@
-# supplementary-materials
+# Supplementary Figures for Anonymous Submission
 
 ## Figure 1
 
